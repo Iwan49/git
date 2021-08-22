@@ -1,2 +1,3 @@
 Hello world!
 There is my first work attempt with GitHub
+I firmly believe that this technology can support my projects in future
